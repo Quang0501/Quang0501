@@ -114,7 +114,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 ### Socials 🌍
 <div style="display: flex; padding: 10px;">
   <p align="left">
-    <a href="https://www.linkedin.com/in/nguyennp-coder" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/nguyễn-văn-quang-b3020331b" target="_blank" rel="noreferrer" style="margin-right: 10px;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
