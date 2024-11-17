@@ -73,6 +73,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
        <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kali&theme=dark&perline=15" width="36" height="36" alt="VisualStudio" /></a>
     </td>
+        <td style="border: 1px solid lightblue; padding: 5px;">
+      <a href="" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=15" width="36" height="36" alt="Figma" /></a>
+    </td>
   </tr>
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
