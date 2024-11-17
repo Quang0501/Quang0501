@@ -55,6 +55,10 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
     <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="36" height="36" alt="SpringBoot" /></a>
     </td>
+          <td style="border: 1px solid lightblue; padding: 5px;">
+      <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
+    </td>
+
   </tr>
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
