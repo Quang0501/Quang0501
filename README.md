@@ -61,7 +61,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
     <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=15" width="36" height="36" alt="MySQL"/></a>
     </td>
-     </td>
+     <td>
     <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" width="36" height="36" alt="VSCode" /></a>
     </td>
