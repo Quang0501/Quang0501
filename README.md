@@ -41,7 +41,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
       <a href="" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=dark&perline=15" width="36" height="36" alt="C++" /></a>
     </td>
     <td style="border: 1px solid lightblue; padding: 5px;">
-      <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+      <a href="" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular,cpp,cs&theme=dark&perline=15" width="36" height="36" alt="Vite" /></a>
     </td>
        <td style="border: 1px solid lightblue; padding: 5px;">
       <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
