@@ -121,7 +121,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
       </picture>
     </a>
-    <a href="https://www.stackoverflow.com/users/23448694/nguyennp" target="_blank" rel="noreferrer">
+    <a href="https://www.stackoverflow.com/users/28341359/nguyễn-văn-quang" target="_blank" rel="noreferrer">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
